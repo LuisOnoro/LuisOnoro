@@ -43,7 +43,7 @@ This profile showcases personal projects in Security Testing, QA Automation, and
  
 | Project | Description |
 |---|---|
-| 🔒 **[api-security-checklist](https://github.com/YOUR_USERNAME/api-security-checklist)** | API security checklist based on the OWASP API Top 10, with test examples and mitigations |
+| 🔒 **[api-security-checklist](https://github.com/LuisOnoro/api-security-checklist)** | API security checklist based on the OWASP API Top 10, with test examples and mitigations |
 | 🧪 *(coming soon)* | API testing framework with Python/Postman |
 | ⚙️ *(coming soon)* | Security pipeline with GitHub Actions |
  
