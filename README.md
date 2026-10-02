@@ -50,6 +50,10 @@ This profile showcases personal projects in Security Testing, QA Automation, and
 ---
  
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisonoro--cyber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisonoro-cyber/)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luismiguelonoro@gmail.com)
+
 📍 Seville, Spain &nbsp;·&nbsp; 🌐 Spanish (native) · English
  
 </div>
